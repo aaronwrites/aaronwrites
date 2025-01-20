@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A CS Student exploring the world of Web Dev</h3>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on a Bookmark Manager MERN app.<br>🤝 I’m looking for help with state management in React and best practices for MERN stack applications.<br>🌱 I’m currently learning everything about React and diving deeper into full-stack development.<br>💬 Ask me about technology, full-stack development, and more...<br>⚡ Fun fact: I’m starting to explore digital art and enjoying the creative journey!
 
 
