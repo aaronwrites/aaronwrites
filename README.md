@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A CS Student exploring the world of Web Dev</h3>
 💫 About Me:
-🔭 I’m currently working on a Bookmark Manager MERN app.<br>🤝 I’m looking for help with state management in React and best practices for MERN stack applications.<br>🌱 I’m currently learning everything about React and diving deeper into full-stack development.<br>💬 Ask me about technology, full-stack development, and more...<br>⚡ Fun fact: I’m starting to explore digital art and enjoying the creative journey!
-
+🔭 I’m currently working on a Bookmark Manager MERN app.<br>🌱 I’m currently learning everything about React and diving deeper into full-stack development.<br>💬 Ask me about technology, full-stack development, and more...<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aaronh5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/aaronnn_h) 
